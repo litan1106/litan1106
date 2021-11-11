@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Vue 3 with Storybook
+- ✨ Client Dashboard with .NET 6
 
 ##### BIO
 
