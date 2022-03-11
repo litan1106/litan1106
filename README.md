@@ -5,6 +5,7 @@
 ##### NOW
 
 - ✨ Client Dashboard with .NET 6
+- ⚙️ Infrastructure as Code with Pulumi
 
 ##### BIO
 
