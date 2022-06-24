@@ -4,17 +4,17 @@
 
 ##### NOW
 
+- 🐼 Airflow Python etl pipelines with pandas dataframe
 - ✨ Client Dashboard with .NET 6 backend and Vue.js and Vite.js SPA frontend
 - 🚀 Vscode devcontainer with Windows Subsystem for Linux 
-- ⚙️ Infrastructure as Code with Pulumi on Azure
+- ⚙️ Infrastructure as Code with Terraform on Azure
 
 ##### BIO
 
 - 🏢 I'm currently working at **Logical Position**
-- ⚙️ I use daily: `.cs`, `.ts`, `.js`, `.json`, `.yaml`, `.sh`, `.ps1`, `.py`, `.jenkinsfile`
+- ⚡️  I use daily: `.cs`, `.py`, `.tf`, `.ts`, `.js`, `.json`, `.yaml`, `.sh`, `.ps1`, `.jenkinsfile`
 - 🌍 I'm mostly active within the **DevOps Community**
 - 💅 Designed: [clients.logicalposition.com](https://clients.logicalposition.com)
-- 🌱 Learning all about **DevOps**, **Automation** and **Cloud Native**
+- 🌱 Learning all about **DevOps**, **Automation**, **Software Development** and **Cloud Native**
 - 💬 Ping me about **devops**, **automation**, **development**, **cloud**
-- 📫 Reach me: [twitter.com/litan1106](https://twitter.com/litan1106)
-- ⚡️ Fun fact: I'm a huge fan of Tax Breaks (Kids)
+- 📫 Reach me: [twitter.com/litanpdx](https://twitter.com/litan1106)
